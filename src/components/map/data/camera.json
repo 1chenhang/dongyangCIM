@@ -1,0 +1,78 @@
+{
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "properties": {
+                    "name": "摄像头1",
+                    "id": "CAM001",
+                    "status": "active"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        114.312015,
+                        30.565938
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "name": "摄像头2",
+                    "id": "CAM002",
+                    "status": "inactive"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        114.311287,
+                        30.566019
+                    ]
+                }
+            },
+            {
+                "type": "Feature",
+                "properties": {
+                    "name": "摄像头3",
+                    "id": "CAM003",
+                    "status": "active"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        114.308903,
+                        30.566019
+                    ]
+                }
+            },{
+                "type": "Feature",
+                "properties": {
+                    "name": "摄像头4",
+                    "id": "CAM003",
+                    "status": "active"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        114.311349,
+                        30.567139
+                    ]
+                }
+            },{
+                "type": "Feature",
+                "properties": {
+                    "name": "摄像头5",
+                    "id": "CAM003",
+                    "status": "active"
+                },
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        114.308456,
+                        30.566017
+                    ]
+                }
+            }
+        ]
+}
